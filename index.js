@@ -10,3 +10,5 @@ const app = express()
 // app.listen(PORT || 3000, () => {
 //   console.log(`Listening on port ${PORT || 3000}`)
 // })
+
+module.exports = app
