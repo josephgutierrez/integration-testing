@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "Mocha"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
